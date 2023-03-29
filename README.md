@@ -22,7 +22,7 @@ I am a 3rd year BTech student with a passion for cloud computing. I am enthusias
 
 <br><br>
 
-## Web Development
+## Front End
 
 <img align="left" alt="php" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
 
@@ -35,18 +35,22 @@ I am a 3rd year BTech student with a passion for cloud computing. I am enthusias
 
 ## Frameworks Used
 
-<img align="left" alt="Laravel" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+<img align="left" alt="Laravel" width="60px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
 
-<img align="left" alt="Bootstrap" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+<img align="left" alt="Bootstrap" width="60px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 
 
-<br><br>
+<br><br><br>
 
 ## Cloud Technologies Familiar with
+
+
+<img align="left" alt="Azure" width="85px" style="padding-right:20px" src="SVG/aws-svgrepo-com.svg"/>
 
 <img align="left" alt="Azure" width="100px" style="padding-right:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
 
 <img align="left" alt="Azure" width="100px" style="padding-right:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" />
+
 
 
 <br>
@@ -57,9 +61,15 @@ I am a 3rd year BTech student with a passion for cloud computing. I am enthusias
 
 # 📊 GitHub Stats
 
+![Ayush's GitHub stats](https://github-readme-stats-ayushdey.vercel.app/api?username=AyushDey&show_icons=true&theme=transparent)
+
 <br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AyushDey&theme=gotham&hide_border=false)
+
+<br/>
+
+![Top Langs](https://github-readme-stats-ayushdey.vercel.app/api/top-langs/?username=AyushDey&theme=transparent)
 
 <br/>
 
