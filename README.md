@@ -1,8 +1,71 @@
-- 👋 Hi, I’m @AyushDey
-- 👀 I’m interested in Cloud Computing...
-- 🌱 I’m currently learning BTech in Computer Science
 
-<!---
-AyushDey/AyushDey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# About Me
+
+I am a 3rd year BTech student with a passion for cloud computing. I am enthusiastic for coding in Java and Python, and I enjoy creating innovative solutions for various problems. I am always eager to learn new skills and technologies, and I can adapt to different situations and challenges. I am looking for an opportunity to apply my knowledge and enthusiasm in a dynamic and collaborative environment.
+
+[![](https://visitcount.itsvg.in/api?id=AyushDey&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<br>
+
+# 💻 Tech Stack
+
+## Languages worked with
+
+<img align="left" alt="Python" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+
+<img align="left" alt="Java" width="40px" style="padding-right:0px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+
+<img align="left" alt="C" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" alt="C++" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+
+
+
+<br><br>
+
+## Web Development
+
+<img align="left" alt="php" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
+
+<img align="left" alt="HTML5" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+
+<img align="left" alt="CSS3" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+
+<br><br>
+
+
+## Frameworks Used
+
+<img align="left" alt="Laravel" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+
+<img align="left" alt="Bootstrap" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+
+
+<br><br>
+
+## Cloud Technologies Familiar with
+
+<img align="left" alt="Azure" width="100px" style="padding-right:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
+
+<img align="left" alt="Azure" width="100px" style="padding-right:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" />
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=AyushDey&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AyushDey&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushDey&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=AyushDey&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
