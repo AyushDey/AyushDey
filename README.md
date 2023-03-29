@@ -65,7 +65,7 @@ I am a 3rd year BTech student with a passion for cloud computing. I am enthusias
 
 <br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=AyushDey&theme=gotham&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AyushDey&theme=transparent&hide_border=false)
 
 <br/>
 
