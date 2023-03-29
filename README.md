@@ -45,7 +45,7 @@ I am a 3rd year BTech student with a passion for cloud computing. I am enthusias
 ## Cloud Technologies Familiar with
 
 
-<img align="left" alt="Azure" width="85px" style="padding-right:20px" src="SVG/aws-svgrepo-com.svg"/>
+<img align="left" alt="AWS" width="85px" style="padding-right:20px" src="SVG/aws-svgrepo-com.svg"/>
 
 <img align="left" alt="Azure" width="100px" style="padding-right:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
 
