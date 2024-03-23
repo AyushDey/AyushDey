@@ -35,10 +35,13 @@ I am a 3rd year BTech student with a passion for cloud computing. I am enthusias
 
 ## Frameworks Used
 
-<img align="left" alt="Laravel" width="60px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+<img align="left" alt="Laravel" width="70px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
 
-<img align="left" alt="Bootstrap" width="60px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+<img align="left" alt="Bootstrap" width="60px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
 
+<img align="left" alt="Streamlit" width="60px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-plain-wordmark.svg"/>
+
+<img align="left" justify="centre" alt="Langchain" height="60" width="100px" style="padding-right:10px" src="SVG/Langchain.svg" />
 
 <br><br><br>
 
